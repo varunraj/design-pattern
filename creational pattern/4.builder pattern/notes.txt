@@ -1,0 +1,2 @@
+Seperation of the construction of a complex object from its representation so that the same contruction process
+can create different representation.
