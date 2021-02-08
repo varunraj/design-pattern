@@ -1,0 +1,9 @@
+Encapsulate a request as an object thereby letting you paramterize with different requests, queue or log requests and support undoable operations.
+
+
+// In this example, we create a command and conductor classes to implement the program in start folder.
+
+command class Encapsulate execution details of a command
+
+conductor is in charge of running several commands.
+

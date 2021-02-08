@@ -1,0 +1,5 @@
+Iterator will allow us to get through collection objects using a common interface
+
+
+Provide a wat to access the elements of an aggregate object sequentially without exposing its underlying representation.
+

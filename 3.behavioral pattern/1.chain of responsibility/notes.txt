@@ -1,0 +1,7 @@
+It is same as middleware pattern in express. Pass req object from one function to next. It can exit at any middelware or continue till end and return a result.
+
+
+Intent :
+
+Avoid coupling the sender of a request to its receiver by giving more than one object a change to handle the request. Chain the receiving o and pass the request along the chain.
+

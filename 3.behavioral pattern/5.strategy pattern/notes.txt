@@ -1,0 +1,14 @@
+In a shopping checout, we can have the checkout process implement different strategies.
+
+    - A credit card strategy
+    - Pay Pal strategy.
+
+    During check out user decide which strategy to use dynamically.
+
+As the needs occurs we can add new strategies. A bitcoin can be added later without ever changing the process.
+
+
+Define a family of algorithms, encapsulate each one and make them interchangeable. strategy lets the algorithm very independently from clients that use it./
+
+
+// In the example in starter, we have the logger class which logs and give  timestamp to the console. What we want to use two different strateges of logging.
